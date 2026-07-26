@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-꒰　　　　c+h  ♡︎　　⋮　he / him 　　⋮　[more](wipbruh)
+꒰　　　　c+h ♡︎　　⋮　he / him　　⋮　<a href="https://pronouns.cc/@708">more</a>
+</p>
+
 <p align="center">
 ────────────────────
 </p>
