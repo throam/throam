@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=throam&color=6E685C&label=wip)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=throam&color=6E685C&label=followers&style=plastic" alt="profile views">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6660f175-fd96-4fcb-98c6-61aab57fee89" />
@@ -15,7 +17,6 @@
 <p align="center">
 ────────────────────
 </p>
-
 <p align="center">
 throam ryan ross
 </p>
