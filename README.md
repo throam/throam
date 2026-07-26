@@ -6,7 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=1000&color=6E685C&center=true&vCenter=true&width=435&lines=but+if+I+were+to+die+tonight;would+you+cry%2C+or+deny%2C+;my+place+in+your+life+%3F" alt="Typing SVG" /></a>
 </p>
 
-
+<p align="center">
+꒰　　　　c+h  ♡︎　　⋮　he / him 　　⋮　[more](wipbruh)
+<p align="center">
+────────────────────
+</p>
 
 
 
